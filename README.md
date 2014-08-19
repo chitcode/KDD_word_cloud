@@ -6,6 +6,9 @@ Short Description : Implementation of word cloud using d3 and deploying it in py
 
 Though there are several examples of wordcloud implementation using 'd3' over net, allmost all of them demonste using static data. Although reading data from a file and host the application in a web framework is not a rocket science, still this example may solve the purpose of end-to-end code.
 
+ Application is hosted <a href="http://chitrasen.pythonanywhere.com/"> here </a>
+ ![Alt text](https://github.com/chitcode/KDD_word_cloud/blob/master/Screenshot.png "")
+
 
 Ref:
 
